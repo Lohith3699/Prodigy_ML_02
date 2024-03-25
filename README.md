@@ -7,38 +7,38 @@ This project aims to segment customers of a retail store using K-means clusterin
 -----------------------------------------
 **Files**
 -----------------------------------------
-customer_data.csv: CSV file containing the customer data.
-customer_segmentation.ipynb: Jupyter Notebook containing the Python code for data analysis and clustering.
+1)customer_data.csv: CSV file containing the customer data.
+2)customer_segmentation.ipynb: Jupyter Notebook containing the Python code for data analysis and clustering.
 
 -----------------------------------------
 **Dependencies**
 -----------------------------------------
 The following Python libraries are required to run the code:
 
-pandas
-matplotlib
-scikit-learn
-You can install these dependencies using pip: pip install pandas matplotlib scikit-learn.
+1)pandas
+2)matplotlib
+3)scikit-learn
+4)You can install these dependencies using pip: pip install pandas matplotlib scikit-learn.
 
 -----------------------------------------
 
 **Usage**
 -----------------------------------------
-Clone the repository or download the files to your local machine.
-Open the Jupyter Notebook customer_segmentation.ipynb in JupyterLab or Jupyter Notebook.
-Run each cell in the notebook to load the data, perform data analysis, and apply K-means clustering.
-Analyze the clusters and interpret the results based on customer segments.
+1)Clone the repository or download the files to your local machine.
+2)Open the Jupyter Notebook customer_segmentation.ipynb in JupyterLab or Jupyter Notebook.
+3)Run each cell in the notebook to load the data, perform data analysis, and apply K-means clustering.
+4)Analyze the clusters and interpret the results based on customer segments.
 
 -----------------------------------------
 
 **Data Description**
 -----------------------------------------
 
-Customer ID: Unique identifier for each customer.
-Age: Age of the customer.
-Gender: Gender of the customer (Male/Female).
-Annual Income (k$): Annual income of the customer in thousands of dollars.
-Spending Score (1-100): Spending score assigned to the customer based on purchasing behavior and other factors.
+1)Customer ID: Unique identifier for each customer.
+2)Age: Age of the customer.
+3)Gender: Gender of the customer (Male/Female).
+4)Annual Income (k$): Annual income of the customer in thousands of dollars.
+5)Spending Score (1-100): Spending score assigned to the customer based on purchasing behavior and other factors.
 
 -----------------------------------------
 
